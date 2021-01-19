@@ -1,1 +1,0 @@
-choco uninstall greenshot -y
